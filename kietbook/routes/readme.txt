@@ -1,0 +1,1 @@
+in this we folder we stores paths as /home, /profile etc
